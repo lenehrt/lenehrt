@@ -1,4 +1,4 @@
-Leonardo De Oliveira
+### Hi there 👋, Leonardo De Oliveira
 #### Full Stack Web Developer 
 I'm currently in the process of changing my career to a software developer.
 
