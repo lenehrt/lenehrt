@@ -1,7 +1,8 @@
-### Hi there 👋, Leonardo De Oliveira
-#### Full Stack Web Developer 
+# Hey, I'm Leo!
+
 I'm currently in the process of changing my career to a software developer.
 
+## Skills and Experience
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 
