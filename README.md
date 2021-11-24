@@ -3,7 +3,7 @@
 I'm currently in the process of changing my career to a software developer.
 
 ## Skills and Experience
-VUE JS / REACT / JS / HTML / CSS
+VUE JS / JS / HTML / CSS
 
 
 
