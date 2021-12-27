@@ -1,6 +1,6 @@
-# Hey, I'm Leo!
+Hey, I'm Leo!
 
-I'm currently in the process of changing my career to a software developer.
+
 
 ## Skills and Experience
 VUE JS / JS / HTML / CSS
