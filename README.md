@@ -1,15 +1,12 @@
 Hey, I'm Leo!
 
+I am a creative and solution-driven Web Developer adept at contributing to a user-friendly web application using Python/Django and JavaScript/Vue, passionate about finding solutions to improving customer satisfaction.
 
+Skills
+Front End: JavaScript, Vue, Axios, Bootstrap, Materialize, HTML5, CSS3
+Back End: Python, Django, Django REST, SQL
+Tools: Git, Github, Heroku, VS Code
+Methodologies: Object Oriented Programming (OOP), Model–view–controller (MVC), Agile
 
-## Skills and Experience
-VUE JS / JS / HTML / CSS
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lenehrt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lenehrt/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.lenehrt.com)  
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lenehrt&show_icons=true)  
-
+Strengths
+Creative, Time Management, Written Communication, Critical Thinking, Attention to Detail, Problem Solving, Rapid Learning, Self-Motivated, Troubleshooting
