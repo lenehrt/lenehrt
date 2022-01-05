@@ -6,4 +6,4 @@ I am a creative and solution-driven Web Developer adept at contributing to a use
 * Back End: Python, Django, Django REST, SQL
 
 ## Examples of Work
-![][CryptoPorfolio.gif]
+![](CryptoPorfolio.gif)
