@@ -17,4 +17,4 @@ I am a creative and solution-driven Web Developer adept at contributing to a use
 
 - 📫 leonardo@lenehrt.com
 - 📲 407-558-4915
-- 📝 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/lenehrt/)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/lenehrt/)
