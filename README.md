@@ -13,7 +13,7 @@ I am a creative and solution-driven Web Developer adept at contributing to a use
 
 ## 
 
-### I’m currently looking for an employer
+### Currently looking for an employer...
 
 - 📫 leonardo@lenehrt.com
 - 📲 407-558-4915
