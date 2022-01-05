@@ -11,4 +11,8 @@ I am a creative and solution-driven Web Developer adept at contributing to a use
   <img width="460" height="auto" src="https://github.com/lenehrt/CCC-Crypto-Portfolio/blob/main/CCC/CryptoWalletSite/static/images/CryptoPorfolio.gif">
 </p>
 
----------> Hire me [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lenehrt/)
+#### I’m currently looking for an employer
+
+- 📫 leonardo@lenehrt.com
+- 📲 407-558-4915
+- 📝 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/lenehrt/)
