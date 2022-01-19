@@ -1,9 +1,9 @@
 # Leo
-I am a creative and solution-driven Web Developer adept at contributing to a user-friendly web application using Python/Django and JavaScript/Vue, passionate about finding solutions to improving customer satisfaction.
+I am a creative and solution-driven Web|Software Developer adept at contributing to a user-friendly web application finding solutions to improving customer satisfaction.
 
 ## Skills
-* Front-end: JavaScript, UX/UI Design, Vue.js, Bootstrap, HTML, CSS, WordPress
-* Back-end: Python, Django, Django REST, SQL
+* Front-end: JavaScript, UX/UI Design, Vue.js, Bootstrap, HTML5, CSS, WordPress.
+* Back-end: Python, Django, Django REST, MySQL, Testing.
 
 ## Work
 
