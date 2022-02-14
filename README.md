@@ -1,4 +1,4 @@
-# Leo
+#    Leo
 I am a creative and solution-driven Web|Software Developer adept at contributing to a user-friendly web application finding solutions to improving customer satisfaction.
 
 ## Skills
