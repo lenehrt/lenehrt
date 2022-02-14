@@ -2,8 +2,11 @@
 I am a creative and solution-driven Web|Software Developer adept at contributing to a user-friendly web application finding solutions to improving customer satisfaction.
 
 ## Skills
-* Front-end: JavaScript, UX/UI Design, Vue.js, Bootstrap, HTML5, CSS, WordPress.
-* Back-end: Python, Django, Django REST, MySQL, Testing.
+• Front End Developer: JavaScript, UX/UI Design, Vue.js, Bootstrap, HTML5, CSS, WordPress.
+• Back End Developer: Python, Django, Django REST, MySQL, Testing.
+• Tools: Git, GitHub, Heroku, PIP.
+• Methodologies: Object Oriented Programming (OOP), Model-view-controller (MVC), Agile.
+
 
 ## Work
 
