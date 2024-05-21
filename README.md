@@ -1,9 +1,8 @@
 #    Leo
-I am a creative, solution-driven Software Developer adept at contributing to a user-friendly application and finding solutions to improving customer satisfaction.
+I am a solution-driven full-stack developer with multiple years of experience crafting robust and scalable web applications. Adept in many coding languages, I blend technical knowledge and creative problem-solving to deliver efficient solutions.
 
 ## Skills
-* Front-end: UX/UI Design, HTML, CSS (SASS, Bootstrap), JavaScript (Vue.js, React).
-* Back-end: Python, Ruby, Django REST, MySQL, PHP, Progress ABL, USWDS, IIS.
+Proficient in JavaScript, HTML, CSS, Bash, Shell Scripting, PHP, and Python, focusing on web application development and user experience. I am experienced in working with WordPress and web frameworks like ReactJS and VueJS. I have a strong understanding of application architecture, database schema, and API design. I also have experience in Linux environments, agile development, UX design, SQL and NoSQL databases, object-oriented programming, distributed systems, and many others.
 
 ## Work
 
@@ -13,8 +12,7 @@ I am a creative, solution-driven Software Developer adept at contributing to a u
 
 ## 
 
-### Currently looking for an employer...
+### Looking for challenges...
 
 - 📫 leonardo@lenehrt.com
-- 📲 407-558-4915
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/lenehrt/)
