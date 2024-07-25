@@ -1,8 +1,8 @@
 #    Leo
-I am a solution-driven full-stack developer with multiple years of experience crafting robust and scalable web applications. Adept in many coding languages, I blend technical knowledge and creative problem-solving to deliver efficient solutions.
+Solution-driven Software Developer with years of experience in creating visually appealing, user-friendly, and effective web applications. Proficient in HTML, CSS, JavaScript, ReactJS, VueJS, PHP, WordPress, Python and Progress ABL. Skilled in wireframing, user flows, responsive design, and ensuring SEO best practices. Experienced in collaborating with developers and managing design projects from concept to completion. Passionate about improving user engagement and website performance.
 
 ## Skills
-Proficient in JavaScript, HTML, CSS, Bash, Shell Scripting, PHP, and Python, focusing on web application development and user experience. I am experienced in working with WordPress and web frameworks like ReactJS and VueJS. I have a strong understanding of application architecture, database schema, and API design. I also have experience in Linux environments, agile development, UX design, SQL and NoSQL databases, object-oriented programming, distributed systems, and many others.
+JavaScript, WordPress, Django, HTML, CSS, React.js, Vue.js, Progress ABL, JAVA, Node.js, Express, MongoDB, SQL, Python, PHP, Docker, Jenking, Git, Figma, User Flows, Responsive Design, REST APIs, Unit Testing, CI/CD, Agile/ Scrum, SEO Best Practices, Usability Testing, Mobile-First Design
 
 ## Work
 
